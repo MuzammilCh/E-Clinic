@@ -1,0 +1,26 @@
+<svg width="176" height="176" viewBox="0 0 176 176" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_3614_5562)">
+<rect x="40" y="20" width="96" height="96" rx="16" fill="url(#paint0_linear_3614_5562)"/>
+<g clip-path="url(#clip0_3614_5562)">
+<path d="M105.987 80.5334L94.6667 63.9201V49.3334H96C96.3536 49.3334 96.6928 49.1929 96.9428 48.9429C97.1929 48.6928 97.3333 48.3537 97.3333 48.0001C97.3333 47.6465 97.1929 47.3073 96.9428 47.0573C96.6928 46.8072 96.3536 46.6667 96 46.6667H80.1067C79.753 46.6667 79.4139 46.8072 79.1639 47.0573C78.9138 47.3073 78.7733 47.6465 78.7733 48.0001C78.7733 48.3537 78.9138 48.6928 79.1639 48.9429C79.4139 49.1929 79.753 49.3334 80.1067 49.3334H81.3333V63.9201L70.1067 80.4134C69.2759 81.5716 68.9053 82.9972 69.0667 84.4134C69.2418 85.7744 69.9071 87.0248 70.938 87.9304C71.9688 88.8361 73.2945 89.3349 74.6667 89.3334H101.147C101.916 89.357 102.682 89.2278 103.4 88.9531C104.119 88.6785 104.776 88.2639 105.333 87.7334C106.268 86.7999 106.846 85.5677 106.965 84.2519C107.085 82.936 106.738 81.62 105.987 80.5334ZM84 64.6534V49.3334H92V64.6534L98.8667 74.6667H77.1333L84 64.6534Z" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_3614_5562" x="0" y="0" width="176" height="176" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0862745 0 0 0 0 0.435294 0 0 0 0 1 0 0 0 0.4 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3614_5562"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_3614_5562" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_3614_5562" x1="40" y1="92" x2="142.599" y2="96.5032" gradientUnits="userSpaceOnUse">
+<stop stop-color="#166FFF"/>
+<stop offset="1" stop-color="#76AFFB"/>
+</linearGradient>
+<clipPath id="clip0_3614_5562">
+<rect width="48" height="48" fill="white" transform="translate(64 44)"/>
+</clipPath>
+</defs>
+</svg>
